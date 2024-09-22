@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "21827242928",
+    "firebase_url": "https://braille-70ade-default-rtdb.firebaseio.com",
+    "project_id": "braille-70ade",
+    "storage_bucket": "braille-70ade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21827242928:android:3d4a5cb78fca1257662475",
+        "android_client_info": {
+          "package_name": "com.example.braille_sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21827242928-qq0tv9b4b9kvr1qq2fgjqgibud3ol949.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZTH2Bi7sBn6LVWz_g2lVPruO2Fg1s7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21827242928-qq0tv9b4b9kvr1qq2fgjqgibud3ol949.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21827242928-8ebochgfhlm6upnu34r6vdtaqapmbr6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whiteboardPractice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21827242928:android:b979203bb210d682662475",
+        "android_client_info": {
+          "package_name": "com.example.piyush_dutta_innovation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21827242928-qq0tv9b4b9kvr1qq2fgjqgibud3ol949.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZTH2Bi7sBn6LVWz_g2lVPruO2Fg1s7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21827242928-qq0tv9b4b9kvr1qq2fgjqgibud3ol949.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21827242928-8ebochgfhlm6upnu34r6vdtaqapmbr6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whiteboardPractice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21827242928:android:34787021989c28a6662475",
+        "android_client_info": {
+          "package_name": "com.example.whiteboard_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21827242928-qq0tv9b4b9kvr1qq2fgjqgibud3ol949.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZTH2Bi7sBn6LVWz_g2lVPruO2Fg1s7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21827242928-qq0tv9b4b9kvr1qq2fgjqgibud3ol949.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21827242928-8ebochgfhlm6upnu34r6vdtaqapmbr6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whiteboardPractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
